@@ -821,7 +821,7 @@ Rumours,Fleetwood Mac,Rock,1977,3590,8,Classic soft rock album,https://example.c
     "artistName": "Miles Davis",
     "genreName": "Jazz",
     "releaseYear": 1959,
-    "price": 3291,
+    "price": 3292,
     "stockQuantity": 6
   }
 ]`}</pre>
