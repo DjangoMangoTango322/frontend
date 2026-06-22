@@ -821,7 +821,7 @@ Rumours,Fleetwood Mac,Rock,1977,3590,8,Classic soft rock album,https://example.c
     "artistName": "Miles Davis",
     "genreName": "Jazz",
     "releaseYear": 1959,
-    "price": 3290,
+    "price": 3291,
     "stockQuantity": 6
   }
 ]`}</pre>
@@ -900,6 +900,7 @@ Rumours,Fleetwood Mac,Rock,1977,3590,8,Classic soft rock album,https://example.c
                                     <div className="mt-1 text-xs font-black uppercase tracking-[0.16em] text-[var(--muted)]">Ошибок</div>
                                 </div>
                             </div>
+                             
 
                             {importResult.errors.length > 0 ? (
                                 <div className="space-y-2">
